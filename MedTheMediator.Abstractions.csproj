@@ -4,6 +4,23 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    
+    <PackageId>MedTheMediator.Abstractions</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Davi Francisco</Authors>
+    <PackageDescription>Abstractions for MedTheMediator</PackageDescription>
+    <Description>Abstractions for MedTheMediator</Description>
+    <RepositoryUrl>https://github.com/KingOfTheHunt/MedTheMediator.Abstractions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/KingOfTheHunt/MedTheMediator.Abstractions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Design Pattern; Mediator</PackageTags>
+    <Title>MedTheMediator.Abstractions</Title>
+    <Summary>Abstractions for MedTheMediator</Summary>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include=".github\workflows\main.yml" />
+  </ItemGroup>
 
 </Project>
